@@ -2,7 +2,9 @@
 
 <p>
 <samp>
-Hello, I'm Durga Prasad, Front-end engineer, passionate about UX, UI and overall webplatform.
+Hello, I'm Durga Prasad!
+  
+Front-end engineer, passionate about UX, UI and overall webplatform.
 </samp>
 </p>
 
