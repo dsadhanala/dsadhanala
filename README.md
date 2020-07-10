@@ -1,8 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <samp>
-    Hello, there! 👋
-    
+  <samp>   
     I'm a self taught Front-end engineer, passionate about UX and UI, overall web in general.
     - ⚡ Web Components enthusiast
   </samp>
