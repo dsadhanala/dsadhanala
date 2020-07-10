@@ -1,9 +1,8 @@
 ### Hi there 👋
-<p align="center">
-  <samp>
-    Hello, I'm Durga Prasad, Front-end engineer working at Adobe, passionate about UX and UI, overall web in general.
-  </samp>
-</p>
+
+<samp>
+Hello, I'm Durga Prasad, Front-end engineer working at Adobe, passionate about UX and UI, overall web in general.
+</samp>
 
 - ⚡ Web Components enthusiast
 - 🌎 <a href="https://web-ui.dev">web-ui.dev</a>
