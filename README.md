@@ -1,4 +1,12 @@
 ### Hi there 👋
+<p align="center">
+  <samp>
+    Hello, there! 👋
+    
+    I'm a self taught Front-end engineer, passionate about UX and UI, overall web in general.
+    - ⚡ Web Components enthusiast
+  </samp>
+</p>
 
 <!--
 **dsadhanala/dsadhanala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
