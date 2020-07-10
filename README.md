@@ -1,8 +1,7 @@
-<p>
+<h1>
 <samp>
-Hello, I'm Durga Prasad! 👋
-</samp>
-</p>
+Hello, I'm praSad! 👋
+</h1>
 <p>
 <samp>  
 Front-end engineer, passionate about UX, UI and overall webplatform.
