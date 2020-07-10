@@ -1,9 +1,10 @@
-### Hi there 👋
-
 <p>
 <samp>
-Hello, I'm Durga Prasad!
-  
+Hello, I'm Durga Prasad! 👋
+</samp>
+</p>
+<p>
+<samp>  
 Front-end engineer, passionate about UX, UI and overall webplatform.
 </samp>
 </p>
