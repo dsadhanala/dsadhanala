@@ -9,6 +9,6 @@ Front-end engineer, passionate about UX, UI and overall webplatform.
 </p>
 
 - ⚡ Web Components enthusiast
-- 🌎 <a href="https://web-ui.dev">web-ui.dev</a>
+- 🌎 <a href="https://heyweb.dev">Website</a>
 - 💼 <a href="https://www.linkedin.com/in/dsadhanala">Linkedin</a>
 - 🐦 <a href="https://twitter.com/dsadhanala">Twitter</a>
